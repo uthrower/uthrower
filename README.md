@@ -1,6 +1,7 @@
 ### Hi there I'm Daniel! 👋
 
 I am an **Algorithmic Trader**, **Financial Auditor**, **Machine Learning Practitioner**, and a self-motivated **Learner**.
+Check out my recent projects [here](https://uthrower.github.io/Daniel_Portfolio/)
 
 - 🔭 I’m currently working on machine learning-incorporated trading strategies
 - 🌱 I’m currently exploring **Quantitative Trading Strategies**
